@@ -3,7 +3,7 @@
 ## Introduction and project purpose
 
 The project GenericLVExtensionAlgorithm contains an extension algorithm for low voltage networks. 
-The algorithm is going to be published at the journal of physics proceeding series and was introduced at the **[SciGRID conference 2017](https://www.scigrid.de/pages/scigrid-conference-2017.html)]**. 
+The algorithm is going to be published at the journal of physics proceeding series and was introduced at the **[SciGRID conference 2017](https://www.scigrid.de/pages/scigrid-conference-2017.html)**. 
 We licensed the work under the MIT-License. Please contact us, if this is not suitable for you. 
 
 ## Documentation
